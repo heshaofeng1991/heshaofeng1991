@@ -1,5 +1,6 @@
-# Live and learn.
-# Make small but daily progress
+# Live And Learn.
+# Make Small But Daily Progress
+# Study Hard, Improve Every Day
 
 - 👋 Hi, I’m @heshaofeng1991
 - 👀 I’m interested in 

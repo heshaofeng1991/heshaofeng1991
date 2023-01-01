@@ -1,5 +1,11 @@
+# Live and learn.
+# Make small but daily progress
+
 - 👋 Hi, I’m @heshaofeng1991
-- 👀 I’m interested in Golang
+- 👀 I’m interested in 
+  - Golang
+  - Rust
+  - Other Technologies Of Interest
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Golang
 - 📫 How to reach me 

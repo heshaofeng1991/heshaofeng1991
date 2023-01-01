@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heshaofeng1991
 - 👀 I’m interested in Golang
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Golang
 - 📫 How to reach me 
   - heshaofeng1991@gmail.com
   - QQ 767259667
